@@ -14,6 +14,7 @@ Go to the [chrome web store](https://chrome.google.com/webstore/detail/project-f
 3. Click "Load unpacked extension..."
 4. Find the extension where you downloaded it and select it
 5. The extension should be added now
+6. This is a github test.
 
 ###### Backend Server Docker Container
 To build the backend python server locally to use with the extension, this repository includes [backend/Dockerfile](backend/Dockerfile).
